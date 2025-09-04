@@ -1,4 +1,6 @@
-# ILPD Analysis & Classification
+# ILPD Machine Learning Analysis & Classification
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/469ead48-1f53-4555-a6ba-61dd263aa93a" />
 
 This project performs a complete analysis and classification on the Indian Liver Patient Dataset (ILPD) using Python, with improved visualizations and a standard machine learning workflow.
 
@@ -49,6 +51,11 @@ Each classifier is a machine learning model.
 
 - **Accuracy scores** → Each model's performance is listed in the table above.  
 - **Visualizations** → Plots for Age distribution, Gender distribution, Selector distribution, and Correlation heatmap are saved in the `ILPD_Visuals` folder within this project.
+
+<img width="800" height="500" alt="Age_Distribution" src="https://github.com/user-attachments/assets/264acef4-b4a9-417f-a588-acaaf6acc19d" />
+<img width="1000" height="800" alt="Correlation_Heatmap" src="https://github.com/user-attachments/assets/0f15989a-563e-4049-a065-287f2fecb9d3" />
+<img width="600" height="400" alt="Gender_Distribution" src="https://github.com/user-attachments/assets/18d607a8-610d-435b-8cb8-30bf63cc88e1" />
+<img width="600" height="400" alt="Selector_Distribution" src="https://github.com/user-attachments/assets/79991e8a-33c5-4386-8f27-caf987b1d384" />
 
 ### Summary
 
