@@ -1,5 +1,7 @@
 # ILPD Machine Learning Analysis & Classification
 
+The **dataset** used is publicly available under the **CC BY 4.0 license**. No proprietary data was used.
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/469ead48-1f53-4555-a6ba-61dd263aa93a" />
 
 This project performs a complete analysis and classification on the Indian Liver Patient Dataset (ILPD) using Python, with improved visualizations and a standard machine learning workflow.
